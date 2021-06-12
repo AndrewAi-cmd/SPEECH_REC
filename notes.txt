@@ -1,0 +1,12 @@
+git status
+git add ________
+git commit -m "______"
+git push origin master
+
+
+pip freeze > requirements.txt #make the library requirement file
+
+
+
+#making venv
+https://gist.github.com/ni-xon/ae4486a1ea2c7841db5049ed4e1684bb?fbclid=IwAR1IJZjxQBfT-Xv9HOwAueFH1mcovyFYTmhIIbeADyYrEVApL2Am3PuQ41g
